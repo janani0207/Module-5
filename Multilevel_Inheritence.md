@@ -55,5 +55,4 @@ print(gc.getName(), gc.getAge(), gc.getLocation())
 
 <img width="1255" height="244" alt="image" src="https://github.com/user-attachments/assets/0740ae99-1fbd-4f4a-8312-c976a8d3e8dc" />
 Result:
-
-<img width="1255" height="244" alt="image" src="https://github.com/user-attachments/assets/302e6e98-559a-4866-be54-8860aa217629" />
+Thus the program that uses multilevel inheritance to get and display a person’s name, age, and location executed successfully.
